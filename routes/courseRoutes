@@ -1,0 +1,8 @@
+const express = require("express");
+const { getCourses } = require("../controllers/courseController");
+const { log } = require("../middlewares/logMiddleware");
+const courseRoutes = express.Router();
+
+courseRoutes.get("/courses", log, getCourses);
+
+module.exports = courseRoutes;
