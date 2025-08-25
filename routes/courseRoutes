@@ -3,6 +3,6 @@ const { getCourses } = require("../controllers/courseController");
 const { log } = require("../middlewares/logMiddleware");
 const courseRoutes = express.Router();
 
-courseRoutes.get("/courses", log, getCourses);
+courseRoutes.get("/courses", getCourses);
 
 module.exports = courseRoutes;

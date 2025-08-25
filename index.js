@@ -1,5 +1,5 @@
 const express = require("express");
-const courseRoutes = require("../routes/courseRoutes");
+const courseRoutes = require("./routes/courseRoutes");
 const connectDB = require("./config/db");
 const app = express();
 const port = 7777;
