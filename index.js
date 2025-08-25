@@ -8,6 +8,6 @@ const port = 7777;
 connectDB();
 app.use(express.json());
 
-app.use("/api/", courseRoutes);
+app.use("/api", courseRoutes);
 
 app.listen(port, () => console.log(`Server running port ${port}`));
