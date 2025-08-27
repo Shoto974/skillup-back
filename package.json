@@ -1,7 +1,9 @@
 {
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0",
-    "mongoose": "^8.18.0"
+    "mongoose": "^8.18.0",
+    "pino": "^9.9.0"
   },
   "name": "skillup",
   "version": "1.0.0",

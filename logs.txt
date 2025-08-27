@@ -1,0 +1,11 @@
+{"level":30,"time":1756286746778,"pid":5600,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756286877423,"pid":11332,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756286948796,"pid":10136,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756286999698,"pid":20388,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756287027146,"pid":27244,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756287221420,"pid":11948,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756287242574,"pid":22420,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756287273247,"pid":7552,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":60,"time":1756287303246,"pid":7552,"hostname":"PC_Gamerz_Jessy","msg":"DB Connection failed : MongooseServerSelectionError: connect ECONNREFUSED ::1:27117, connect ECONNREFUSED 127.0.0.1:27117 "}
+{"level":30,"time":1756287334338,"pid":15328,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756287334359,"pid":15328,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
