@@ -1,11 +1,213 @@
-{"level":30,"time":1756286746778,"pid":5600,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
-{"level":30,"time":1756286877423,"pid":11332,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
-{"level":30,"time":1756286948796,"pid":10136,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
-{"level":30,"time":1756286999698,"pid":20388,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
-{"level":30,"time":1756287027146,"pid":27244,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
-{"level":30,"time":1756287221420,"pid":11948,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
-{"level":30,"time":1756287242574,"pid":22420,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
-{"level":30,"time":1756287273247,"pid":7552,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
-{"level":60,"time":1756287303246,"pid":7552,"hostname":"PC_Gamerz_Jessy","msg":"DB Connection failed : MongooseServerSelectionError: connect ECONNREFUSED ::1:27117, connect ECONNREFUSED 127.0.0.1:27117 "}
-{"level":30,"time":1756287334338,"pid":15328,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
-{"level":30,"time":1756287334359,"pid":15328,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":30,"time":1756290717364,"pid":9296,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756290717379,"pid":9296,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":60,"time":1756290941183,"pid":17896,"hostname":"PC_Gamerz_Jessy","msg":"Error : TypeError: addUser is not a function"}
+{"level":60,"time":1756290941183,"pid":26284,"hostname":"PC_Gamerz_Jessy","msg":"Error : TypeError: addUser is not a function"}
+{"level":30,"time":1756290941186,"pid":17896,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756290941186,"pid":26284,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756290941201,"pid":26284,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":30,"time":1756290941200,"pid":17896,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":60,"time":1756290941954,"pid":15760,"hostname":"PC_Gamerz_Jessy","msg":"Error : TypeError: addUser is not a function"}
+{"level":30,"time":1756290941957,"pid":15760,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756290941972,"pid":15760,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":30,"time":1756291009324,"pid":10528,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756291009324,"pid":6772,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756291009343,"pid":10528,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":30,"time":1756291009343,"pid":6772,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":30,"time":1756291009403,"pid":10528,"hostname":"PC_Gamerz_Jessy","msg":"User added :"}
+{"level":30,"time":1756291009403,"pid":10528,"hostname":"PC_Gamerz_Jessy","msg":"User ayoub ajouté"}
+{"level":30,"time":1756291009403,"pid":6772,"hostname":"PC_Gamerz_Jessy","msg":"User added :"}
+{"level":30,"time":1756291009403,"pid":6772,"hostname":"PC_Gamerz_Jessy","msg":"User jessy ajouté"}
+{"level":50,"time":1756291009405,"pid":10528,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : "}
+{"level":50,"time":1756291009405,"pid":6772,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : "}
+{"level":30,"time":1756291009405,"pid":10528,"hostname":"PC_Gamerz_Jessy","msg":"User jessy ajouté"}
+{"level":30,"time":1756291009405,"pid":6772,"hostname":"PC_Gamerz_Jessy","msg":"User ayoub ajouté"}
+----------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{"level":30,"time":1756291377544,"pid":26092,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756291377563,"pid":26092,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":30,"time":1756291377622,"pid":26092,"hostname":"PC_Gamerz_Jessy","msg":"User added : 68aee1319efed13f400687aa"}
+{"level":30,"time":1756291377622,"pid":26092,"hostname":"PC_Gamerz_Jessy","msg":"User added : 68aee1319efed13f400687ac"}
+{"level":30,"time":1756291381063,"pid":20980,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756291381082,"pid":20980,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756291381148,"pid":20980,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":50,"time":1756291381149,"pid":20980,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":30,"time":1756297417317,"pid":10296,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756297417346,"pid":10296,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756297417438,"pid":10296,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756297417439,"pid":10296,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":30,"time":1756297418680,"pid":12444,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756297418711,"pid":12444,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756297418806,"pid":12444,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756297418806,"pid":12444,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":30,"time":1756297523294,"pid":12444,"hostname":"PC_Gamerz_Jessy","msg":"User added : 68aef9334fd991a97ef4c2de"}
+{"level":30,"time":1756297524798,"pid":480,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756297524827,"pid":480,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756297524922,"pid":480,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":50,"time":1756297524923,"pid":480,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756297540261,"pid":480,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"valentin\" }"}
+{"level":30,"time":1756297655292,"pid":9676,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756297655320,"pid":9676,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756297655418,"pid":9676,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756297655419,"pid":9676,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":30,"time":1756297690926,"pid":7816,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756297690967,"pid":7816,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756297691065,"pid":7816,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756297691066,"pid":7816,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":30,"time":1756297719935,"pid":30676,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756297719960,"pid":30676,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756297720057,"pid":30676,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756297720058,"pid":30676,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":30,"time":1756297832316,"pid":6168,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756297832344,"pid":6168,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756297832438,"pid":6168,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":50,"time":1756297832439,"pid":6168,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":30,"time":1756297895389,"pid":3972,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756297895413,"pid":3972,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756297895516,"pid":3972,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756297895517,"pid":3972,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":30,"time":1756297910507,"pid":24580,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756297910540,"pid":24580,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756297910638,"pid":24580,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756297910639,"pid":24580,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":30,"time":1756297929793,"pid":23948,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756297929838,"pid":23948,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756297929922,"pid":23948,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":50,"time":1756297929923,"pid":23948,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756297933073,"pid":23948,"hostname":"PC_Gamerz_Jessy","msg":"Getting user error : TypeError: mongoose.findOne is not a function"}
+{"level":50,"time":1756297954703,"pid":23948,"hostname":"PC_Gamerz_Jessy","msg":"Getting user error : TypeError: mongoose.findOne is not a function"}
+{"level":30,"time":1756297967097,"pid":21588,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756297967127,"pid":21588,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756297967231,"pid":21588,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":50,"time":1756297967232,"pid":21588,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756297968916,"pid":21588,"hostname":"PC_Gamerz_Jessy","msg":"Getting user error : TypeError: mongoose.findOne is not a function"}
+{"level":30,"time":1756298006855,"pid":5984,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756298006891,"pid":5984,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756298006986,"pid":5984,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":50,"time":1756298006988,"pid":5984,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756298074341,"pid":5984,"hostname":"PC_Gamerz_Jessy","msg":"Getting user error : TypeError: mongoose.findOne is not a function"}
+{"level":30,"time":1756298087738,"pid":20188,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756298087773,"pid":20188,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756298087864,"pid":20188,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":50,"time":1756298087865,"pid":20188,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756298091075,"pid":20188,"hostname":"PC_Gamerz_Jessy","msg":"Getting user error : TypeError: mongoose.findOne is not a function"}
+{"level":30,"time":1756298109437,"pid":20312,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756298109472,"pid":20312,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756298109566,"pid":20312,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":50,"time":1756298109567,"pid":20312,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":30,"time":1756298165048,"pid":9284,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756298165074,"pid":9284,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756298165175,"pid":9284,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756298165176,"pid":9284,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":50,"time":1756298189067,"pid":9284,"hostname":"PC_Gamerz_Jessy","msg":"Getting user error : TypeError: mongoose.findOne is not a function"}
+{"level":30,"time":1756298308274,"pid":31912,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756298308303,"pid":31912,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756298308403,"pid":31912,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":50,"time":1756298308404,"pid":31912,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":30,"time":1756298343034,"pid":7404,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756298343058,"pid":7404,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756298343154,"pid":7404,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756298343154,"pid":7404,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":50,"time":1756298345451,"pid":7404,"hostname":"PC_Gamerz_Jessy","msg":"Compare error: Error: data and hash arguments required"}
+{"level":50,"time":1756298349551,"pid":7404,"hostname":"PC_Gamerz_Jessy","msg":"Compare error: Error: data and hash arguments required"}
+{"level":30,"time":1756298426546,"pid":21124,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756298426574,"pid":21124,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756298426671,"pid":21124,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":50,"time":1756298426671,"pid":21124,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":30,"time":1756298433942,"pid":31180,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756298433969,"pid":31180,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756298434067,"pid":31180,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":50,"time":1756298434068,"pid":31180,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756298436347,"pid":31180,"hostname":"PC_Gamerz_Jessy","msg":"Compare error: Error: data and hash arguments required"}
+{"level":30,"time":1756298511154,"pid":20100,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756298511173,"pid":20100,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756298511270,"pid":20100,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756298511271,"pid":20100,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":30,"time":1756298605578,"pid":30828,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756298605602,"pid":30828,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756298605705,"pid":30828,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":50,"time":1756298605706,"pid":30828,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756298645593,"pid":30828,"hostname":"PC_Gamerz_Jessy","msg":"Compare error: Error: data and hash arguments required"}
+{"level":30,"time":1756298706551,"pid":31496,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756298706579,"pid":31496,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756298706674,"pid":31496,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":50,"time":1756298706674,"pid":31496,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756298710974,"pid":31496,"hostname":"PC_Gamerz_Jessy","msg":"Compare error: Error: data and hash arguments required"}
+{"level":30,"time":1756298747431,"pid":10976,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756298747480,"pid":10976,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756298747573,"pid":10976,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756298747574,"pid":10976,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":30,"time":1756298796581,"pid":32748,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756298796614,"pid":32748,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756298796709,"pid":32748,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":50,"time":1756298796710,"pid":32748,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":30,"time":1756298804049,"pid":21324,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756298804104,"pid":21324,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756298804198,"pid":21324,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":50,"time":1756298804199,"pid":21324,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756298829691,"pid":21324,"hostname":"PC_Gamerz_Jessy","msg":"Compare error: Error: data and hash arguments required"}
+{"level":30,"time":1756298873295,"pid":14076,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756298873319,"pid":14076,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756298873423,"pid":14076,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756298873425,"pid":14076,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":30,"time":1756298943603,"pid":16056,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756298943626,"pid":16056,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756298943727,"pid":16056,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":50,"time":1756298943728,"pid":16056,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":30,"time":1756299001509,"pid":22664,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756299001530,"pid":22664,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756299001630,"pid":22664,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756299001631,"pid":22664,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":30,"time":1756299190201,"pid":12496,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756299190230,"pid":12496,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756299190324,"pid":12496,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":50,"time":1756299190325,"pid":12496,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":30,"time":1756299247075,"pid":26252,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756299247113,"pid":26252,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756299247217,"pid":26252,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":50,"time":1756299247218,"pid":26252,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":30,"time":1756299265246,"pid":6472,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756299265280,"pid":6472,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756299265373,"pid":6472,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
+{"level":50,"time":1756299265374,"pid":6472,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":30,"time":1756299290098,"pid":6732,"hostname":"PC_Gamerz_Jessy","msg":"Server running port 7777"}
+{"level":30,"time":1756299290129,"pid":6732,"hostname":"PC_Gamerz_Jessy","msg":"DB Connected"}
+{"level":50,"time":1756299290233,"pid":6732,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"ayoub\" }"}
+{"level":50,"time":1756299290235,"pid":6732,"hostname":"PC_Gamerz_Jessy","msg":"Adding user error : MongoServerError: E11000 duplicate key error collection: skillup.users index: name_1 dup key: { name: \"jessy\" }"}
